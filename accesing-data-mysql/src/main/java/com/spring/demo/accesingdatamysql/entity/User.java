@@ -10,6 +10,11 @@ import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
 
+/**
+ * POJO which models a User.
+ * 
+ * @author Alexander Toureau
+ */
 @Entity
 @Getter
 @Setter
